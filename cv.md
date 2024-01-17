@@ -9,7 +9,7 @@ Maybe even a script kiddie or `sudo` Scientist.
 `k8s` Helmsman, `docker` Foreman. `gce` Monkey, `az` Ape and `aws` Gorilla.
 Toolsmith
 Experimenter in anything that bridges the gap between Development and Operations. Encouraging people to FLOSS daily.
-Some of my old docker images can be found at hub.docker.com/u/skakelaar
+Some of my old docker images can be found at [dockerhub](https://hub.docker.com/u/skakelaar)
 
 ## Professional experience:
 
