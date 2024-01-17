@@ -15,7 +15,7 @@ Some of my old docker images can be found at [dockerhub](https://hub.docker.com/
 
 ### 2016-2018: Fintech
 
-#### IT guy
+### IT guy
 
 - 1st,2nd and 3rd level Support engineer/IT guy and sysadmin.
 Turning things off and on again. Changing printer toner, setup networking, setup Active Directory/Kerberos, manage server room and backups, Audio/Visual for world class conferencing, CCTV and security infrastructure management.
@@ -24,7 +24,7 @@ Turning things off and on again. Changing printer toner, setup networking, setup
 
 ### 2018-Present: German automotive
 
-#### DevOps Engineer
+### DevOps Engineer
 - EV battery farming space:
 Tasked with managing containerized and legacy systems. Automating CI/CD and implementing Infrastructure as Code
 EFK stack and Prometeus in k8s were setup. Legacy: Postgres, java EE, Glassfish with 2-way SSL.
@@ -33,7 +33,7 @@ EFK stack and Prometeus in k8s were setup. Legacy: Postgres, java EE, Glassfish 
 Mainly tasked with taking existing devops to a no-ops setup.
 Included mostly AWS. EKS k8s, Jenkins, Nexus, Sonarqube, Certmanagers, Terraform. Modern java stack with a lot of Python.
 
-#### SRE
+### SRE
 - IoT space:
 Azure heavy, distributed microservice architecture - completely written as code, mainly with Terraform.
 AKS k8s, various Azure services, Github, Github Actions and ArgoCD for full GitOps approach. VMWare Saltstack is used for config management, disaster recovery and nightly state.
