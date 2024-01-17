@@ -48,7 +48,7 @@ Playing with Hyperledger, Flow, Solidity, Solana/Rust, web3/ethers.js and an ong
 
 ### Contact
 
-- :round_pushpin: South Africa, UK, Germany and Spain
-- :phone: +4475 1303 8674
-- :email: info@skakelaar.com
-- :house: http://skakelaar.com
+- Phone: +4475 1303 8674
+- Email: info@skakelaar.com
+- Website: http://skakelaar.com
+- Location: South Africa, UK, Germany and Spain
