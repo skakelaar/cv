@@ -7,7 +7,7 @@ I'm an IT contractor, currently working as SRE.
 My professional career started in 2016. Since then I've almost exclusively checked in proprietary code. Before that, I was a tech hobbyist, dabbling in systems engineering and crypto.
 Maybe even a script kiddie or `sudo` Scientist. 
 `k8s` Helmsman, `docker` Foreman. `gce` Monkey, `az` Ape and `aws` Gorilla.
-Toolsmith
+Toolsmith.
 Experimenter in anything that bridges the gap between Development and Operations. Encouraging people to FLOSS daily.
 Some of my old docker images can be found at [dockerhub](https://hub.docker.com/u/skakelaar)
 
