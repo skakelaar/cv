@@ -26,7 +26,7 @@ Turning things off and on again. Changing printer toner, setup networking, setup
 
 ### DevOps Engineer
 - EV battery farming space:
-Tasked with managing containerized and legacy systems. Automating CI/CD and implementing Infrastructure as Code
+Tasked with managing containerized and legacy systems. Automating CI/CD and implementing Infrastructure as Code.
 EFK stack and Prometeus in k8s were setup. Legacy: Postgres, java EE, Glassfish with 2-way SSL.
 
 - EV Charging space:
