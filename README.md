@@ -4,10 +4,8 @@
 
 ## About:
 I'm an IT contractor, currently working as SRE.
-My professional career started in 2016. Since then I've almost exclusively checked in proprietary code. Before that, I was a tech hobbyist, dabbling in systems engineering and crypto.
-Maybe even a script kiddie or `sudo` Scientist. 
-`k8s` Helmsman, `docker` Foreman. `gce` Monkey, `az` Ape and `aws` Gorilla.
-Toolsmith.
+My professional career started in 2016. Before that, I was a tech hobbyist, dabbling in systems engineering and crypto.
+Maybe even a script kiddie or `sudo` Scientist and Toolsmith. `k8s` Helmsman, `docker` Foreman. `gce` Monkey, `az` Ape and `aws` Gorilla.
 Experimenter in anything that bridges the gap between Development and Operations. Encouraging people to FLOSS daily.
 Some of my old docker images can be found at [dockerhub](https://hub.docker.com/u/skakelaar)
 
@@ -38,6 +36,10 @@ Included mostly AWS. EKS k8s, Jenkins, Nexus, Sonarqube, Certmanagers, Terraform
 Azure heavy, distributed microservice architecture - completely written as code, mainly with Terraform.
 AKS k8s, various Azure services, Github, Github Actions and ArgoCD for full GitOps approach. VMWare Saltstack is used for config management, disaster recovery and nightly state.
 Highly redundant and reliable setup with various backups and rollbacks in place, replicated and distributed storage.
+
+## Skills
+- Kubernetes, Gitlab, Github Enterprise, Azure Devops, Jenkins, AWS, Azure, GCP, ArgoCD, Saltstack, Nexus, Sonarqube, Hashicorp Terraform Packer Vault Consul, Docker, podman, containerd, etcd, fluentd, graphql, postgresql, SQL, Mongo, Redis, Elasticsearch, Kibana, Grafana, Prometheus, RabbitMQ, Kafka, trivy, TLS/SSL, DNS, reverse proxy, webserver config, HTTP2/3, vaious filesystems and protocols Ceph/S3/GCS/AzBlob/SFTP/SMB/CIFS/rsync, email, webhooks, slack, Teams, Jira, Confluence, Bitbucket, bash, gnu/linux, gentoo, WSL, display servers, industrial PC's, remote view, vnc, gpg, veracrypt/LUKS, bottom-up troubleshooting, chaos testing, TDD, BDD, Cucumber
+- High/Business level Spanish, Intermediate German. Fluent in English and Afrikaans. Can joke around in others.
 
 ## Side projects and Crypto
 
