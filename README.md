@@ -67,7 +67,6 @@ Playing with Hyperledger, Flow, Solidity, Solana/Rust, web3/ethers.js and an ong
 
 ### Contact
 
-- Phone: +3670 676 4621
-- Email: info@skakelaar.com
+- Email: redigo.skakelaar@outlook.com
 - Website: http://skakelaar.com
 - Location: South Africa, UK, Hungary, Germany and Spain
