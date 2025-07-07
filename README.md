@@ -49,7 +49,7 @@ Improve Developer experience by continuously improving the SDLC, using DevOps me
 
 ### 2024: Payments giant
 
-#### Snr SRE
+#### Platform engineer and Snr SRE
 
 - Finance space:
 Assist in safe migration between private datacentre and AWS, focusing on Observability of the networking, infrastructure and application layers. Obtained deep understanding of NewRelic. Declared observability, using Terraform and Ansible to manage and orchestrate the state and deployment of config, dashboards and alerts. Learned more about IHS and Apache, IBM MQ, Fluent-bit, regex and manual log parsing, flex, java process monitoring, complex database queries, Site-to-Site VPNs and Transit Gateways.
