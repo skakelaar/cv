@@ -68,5 +68,6 @@ Playing with Hyperledger, Flow, Solidity, Solana/Rust, web3/ethers.js and an ong
 ### Contact
 
 - Email: redigo.skakelaar@outlook.com
-- Website: http://skakelaar.com
+- Website: [Skakelaar](https://skakelaar.com)
+- IDP MVP: [Portfolio](https://idp.skakelaar.com)
 - Location: South Africa, UK, Hungary, Germany and Spain
